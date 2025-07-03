@@ -9,7 +9,7 @@ This project analyzes 911 emergency call data using Natural Language Processing 
 - Explore text descriptions in emergency calls
 - Build a model to classify call types (EMS, FIRE, TRAFFIC)
 
-  🛠 Technologies & Tools
+🛠 Technologies & Tools
 - Python
 - Pandas, NumPy, Matplotlib, Seaborn
 - NLTK, WordCloud
